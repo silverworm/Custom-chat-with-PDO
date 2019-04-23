@@ -1,0 +1,10 @@
+.name,.text_time,.text_cont{
+  display: inline-block;
+  width: 20%;
+}
+.text_time{
+  width: 20%;
+}
+.text_cont{
+  width: 60%;
+}
